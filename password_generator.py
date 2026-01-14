@@ -13,7 +13,7 @@ for i in range(length):
 random.choice(characters)
     
 
-# ---- Main Program ----generator = PasswordGenerator(length)
+# ---- Main Program ----
 print("Generated Password:", password)
 
 input("Press Enter to exit...")
