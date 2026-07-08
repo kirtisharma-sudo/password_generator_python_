@@ -15,4 +15,4 @@ A beginner-friendly Python program that generates strong random passwords.
 ## ▶️ How to Run
 1. Clone this repository
    ```bash
-     [(https://github.com/kirtisharma-sudo/password_generator_python_.git)]
+     https://github.com/kirtisharma-sudo/password_generator_python_.git
