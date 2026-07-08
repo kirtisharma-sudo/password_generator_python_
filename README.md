@@ -58,7 +58,7 @@ cd password_generator_python_
 ### Run the program
 
 ```bash
-python password_generator_python_.py
+python password_generator.py
 ```
 
 
