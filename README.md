@@ -8,7 +8,7 @@ A beginner-friendly Python application that generates secure, random passwords u
 
 ---
 
-## 📖 Description
+## Description
 
 This project was built to practice Python fundamentals including:
 
@@ -22,18 +22,18 @@ The program generates strong passwords based on the user’s desired length usin
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔢 User-defined password length
-- 🔐 Generates secure random passwords
-- 🔡 Includes uppercase and lowercase letters
-- 🔢 Includes numbers
-- ✨ Includes special characters
-- 🖥️ Simple command-line interface
+- User-defined password length
+- Generates secure random passwords
+- Includes uppercase and lowercase letters
+- Includes numbers
+- Includes special characters
+- Simple command-line interface
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - `random` module
@@ -41,7 +41,7 @@ The program generates strong passwords based on the user’s desired length usin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 
@@ -58,30 +58,19 @@ cd password_generator_python_
 ### Run the program
 
 ```bash
-python password_generator.py
+python password_generator_python_.py
 ```
 
-*(Replace `password_generator.py` with your actual Python filename if it's different.)*
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
-```text
-========== PASSWORD GENERATOR ==========
-
-Enter password length: 12
-
-Generated Password:
-
-k@7P!q9L#x2A
-
-Generate another password? (y/n):
-```
+<img width="502" height="130" alt="image" src="https://github.com/user-attachments/assets/74498ccb-b4ad-4b6b-a3cd-053496a51221" />
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 password_generator_python_/
@@ -94,7 +83,7 @@ password_generator_python_/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped me understand:
 
@@ -106,7 +95,7 @@ This project helped me understand:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Password strength indicator
 - Copy password to clipboard
@@ -116,7 +105,7 @@ This project helped me understand:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Kirti Sharma**
 
